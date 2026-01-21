@@ -3,3 +3,5 @@ Risk classification in cryptocurrency transactions is important because blockcha
 
 The Elliptic dataset is a graph-based time-series dataset where Bitcoin transactions form nodes in a temporal transaction graph, with each node described by 166 numerical blockchain features.
 Link to dataset: https://www.kaggle.com/datasets/ellipticco/elliptic-data-set)
+
+Course: ME371 Data-Driven Problem Solving
